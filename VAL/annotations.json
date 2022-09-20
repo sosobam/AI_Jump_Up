@@ -1,0 +1,1828 @@
+{
+	"081_x51487_y45012_cx32768_cy6144.jpg": {
+		"instances": [
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					0,
+					0,
+					7351.7,
+					0,
+					7353.1,
+					3072,
+					0,
+					3072
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					16384,
+					0,
+					9005.6,
+					0,
+					9007.8,
+					3072,
+					16384,
+					3072
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					7351.3,
+					0,
+					7485.9,
+					0,
+					7485.2,
+					3072,
+					7352.6,
+					3072
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					8866.4,
+					0,
+					9005.6,
+					0,
+					9007.8,
+					3072,
+					8867.1,
+					3072
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					7485.9,
+					3072,
+					7577.6,
+					3072,
+					7576.9,
+					0.2,
+					7485.8,
+					0.2
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					8774.6,
+					3072,
+					8867.1,
+					3072,
+					8866.4,
+					0,
+					8775.3,
+					0
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					7577.9,
+					3073,
+					7700.6,
+					3073,
+					7700.5,
+					0,
+					7576.9,
+					0
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					8651.9,
+					3072,
+					8774.6,
+					3072,
+					8775.3,
+					0,
+					8654.1,
+					0
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			}
+		],
+		"tags": [],
+		"metadata": {
+			"version": "1.0.0",
+			"name": "081_x51487_y45012_cx32768_cy6144.jpg",
+			"status": "Completed"
+		}
+	},
+	"083_x51487_y14292_cx32768_cy6144.jpg": {
+		"instances": [
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					16386.8,
+					1,
+					9008.4,
+					1,
+					9010.6,
+					3073,
+					16386.8,
+					3073
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					2.8,
+					1,
+					7354.5,
+					1,
+					7355.9,
+					3073,
+					2.8,
+					3073
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					8869.2,
+					1,
+					9008.4,
+					1,
+					9010.6,
+					3073,
+					8869.9,
+					3073
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					7354.1,
+					1,
+					7488.7,
+					1,
+					7488,
+					3073,
+					7355.4,
+					3073
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					8777.4,
+					3073,
+					8869.9,
+					3073,
+					8869.2,
+					1,
+					8778.1,
+					1
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					7488.7,
+					3073,
+					7580.4,
+					3073,
+					7579.7,
+					1.2,
+					7488.6,
+					1.2
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					8654.7,
+					3073,
+					8777.4,
+					3073,
+					8778.1,
+					1,
+					8656.9,
+					1
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					7580.7,
+					3074,
+					7703.4,
+					3074,
+					7703.3,
+					1,
+					7579.7,
+					1
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			}
+		],
+		"tags": [],
+		"metadata": {
+			"version": "1.0.0",
+			"name": "083_x51487_y14292_cx32768_cy6144.jpg",
+			"status": "Completed"
+		}
+	},
+	"082_x51487_y26580_cx32768_cy6144.jpg": {
+		"instances": [
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					16384.3,
+					0,
+					9005.9,
+					0,
+					9008.1,
+					3072,
+					16384.3,
+					3072
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					0.3,
+					0,
+					7352,
+					0,
+					7353.4,
+					3072,
+					0.3,
+					3072
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					8866.7,
+					0,
+					9005.9,
+					0,
+					9008.1,
+					3072,
+					8867.4,
+					3072
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					7351.6,
+					0,
+					7486.2,
+					0,
+					7485.5,
+					3072,
+					7352.9,
+					3072
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					8774.9,
+					3072,
+					8867.4,
+					3072,
+					8866.7,
+					0,
+					8775.6,
+					0
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					7486.2,
+					3072,
+					7577.9,
+					3072,
+					7577.2,
+					0.2,
+					7486.1,
+					0.2
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					8652.2,
+					3072,
+					8774.9,
+					3072,
+					8775.6,
+					0,
+					8654.4,
+					0
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					7578.2,
+					3073,
+					7700.9,
+					3073,
+					7700.8,
+					0,
+					7577.2,
+					0
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			}
+		],
+		"tags": [],
+		"metadata": {
+			"version": "1.0.0",
+			"name": "082_x51487_y26580_cx32768_cy6144.jpg",
+			"status": "Completed"
+		}
+	},
+	"087_x51487_y38868_cx32768_cy6144.jpg": {
+		"instances": [
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					16384.9,
+					0.6,
+					9006.5,
+					0.6,
+					9008.7,
+					3072.6,
+					16384.9,
+					3072.6
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					0.9,
+					0.6,
+					7352.6,
+					0.6,
+					7354,
+					3072.6,
+					0.9,
+					3072.6
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					8867.3,
+					0.6,
+					9006.5,
+					0.6,
+					9008.7,
+					3072.6,
+					8868,
+					3072.6
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					7352.2,
+					0.6,
+					7486.8,
+					0.6,
+					7486.1,
+					3072.6,
+					7353.5,
+					3072.6
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					8775.5,
+					3072.6,
+					8868,
+					3072.6,
+					8867.3,
+					0.6,
+					8776.2,
+					0.6
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					7486.8,
+					3072.6,
+					7578.5,
+					3072.6,
+					7577.8,
+					0.8,
+					7486.7,
+					0.8
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					8652.8,
+					3072.6,
+					8775.5,
+					3072.6,
+					8776.2,
+					0.6,
+					8655,
+					0.6
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					7578.8,
+					3073.6,
+					7701.5,
+					3073.6,
+					7701.4,
+					0.6,
+					7577.8,
+					0.6
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			}
+		],
+		"tags": [],
+		"metadata": {
+			"version": "1.0.0",
+			"name": "087_x51487_y38868_cx32768_cy6144.jpg",
+			"status": "Completed"
+		}
+	},
+	"085_x51487_y32724_cx32768_cy6144.jpg": {
+		"instances": [
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					16385.9,
+					-2,
+					9007.5,
+					-2,
+					9009.7,
+					3070,
+					16385.9,
+					3070
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					1.9,
+					-2,
+					7353.6,
+					-2,
+					7355,
+					3070,
+					1.9,
+					3070
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					8868.3,
+					-2,
+					9007.5,
+					-2,
+					9009.7,
+					3070,
+					8869,
+					3070,
+					8867.9,
+					1634.6
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					7353.2,
+					-2,
+					7487.8,
+					-2,
+					7487.1,
+					3070,
+					7354.5,
+					3070
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					8776.5,
+					3070,
+					8869,
+					3070,
+					8868.3,
+					-2,
+					8777.2,
+					-2
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					7487.8,
+					3070,
+					7579.5,
+					3070,
+					7578.8,
+					-1.8,
+					7487.7,
+					-1.8
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					8653.8,
+					3070,
+					8776.5,
+					3070,
+					8777.2,
+					-2,
+					8656,
+					-2
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					7579.8,
+					3071,
+					7702.5,
+					3071,
+					7702.4,
+					-2,
+					7578.8,
+					-2
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			}
+		],
+		"tags": [],
+		"metadata": {
+			"version": "1.0.0",
+			"name": "085_x51487_y32724_cx32768_cy6144.jpg",
+			"status": "Completed"
+		}
+	},
+	"086_x51487_y51156_cx32768_cy6144.jpg": {
+		"instances": [
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					16386.5,
+					0.2,
+					9008.1,
+					0.2,
+					9010.3,
+					3072.2,
+					16386.5,
+					3072.2
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					2.5,
+					0.2,
+					7354.2,
+					0.2,
+					7355.6,
+					3072.2,
+					2.5,
+					3072.2
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					8868.9,
+					0.2,
+					9008.1,
+					0.2,
+					9010.3,
+					3072.2,
+					8869.6,
+					3072.2,
+					8869.7,
+					1645.3
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					7353.8,
+					0.2,
+					7488.4,
+					0.2,
+					7487.7,
+					3072.2,
+					7355.1,
+					3072.2
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					8777.1,
+					3072.2,
+					8869.6,
+					3072.2,
+					8868.9,
+					0.2,
+					8777.8,
+					0.2
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					7488.4,
+					3072.2,
+					7580.1,
+					3072.2,
+					7579.4,
+					0.4,
+					7488.3,
+					0.4
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					8654.4,
+					3072.2,
+					8777.1,
+					3072.2,
+					8777.8,
+					0.2,
+					8656.6,
+					0.2
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					7580.4,
+					3073.2,
+					7703.1,
+					3073.2,
+					7703,
+					0.2,
+					7579.4,
+					0.2
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			}
+		],
+		"tags": [],
+		"metadata": {
+			"version": "1.0.0",
+			"name": "086_x51487_y51156_cx32768_cy6144.jpg",
+			"status": "Completed"
+		}
+	},
+	"080_x51487_y20436_cx32768_cy6144.jpg": {
+		"instances": [
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					16381.5,
+					-2.1,
+					9003.1,
+					-2.1,
+					9005.3,
+					3069.9,
+					16381.5,
+					3069.9
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					-2.5,
+					-2.1,
+					7349.2,
+					-2.1,
+					7350.6,
+					3069.9,
+					-2.5,
+					3069.9
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					8863.9,
+					-2.1,
+					9003.1,
+					-2.1,
+					9005.3,
+					3069.9,
+					8864.6,
+					3069.9,
+					8863.1,
+					1636.4
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					7348.8,
+					-2.1,
+					7483.4,
+					-2.1,
+					7482.7,
+					3069.9,
+					7350.1,
+					3069.9
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					8772.1,
+					3069.9,
+					8864.6,
+					3069.9,
+					8863.9,
+					-2.1,
+					8772.8,
+					-2.1
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					7483.4,
+					3069.9,
+					7575.1,
+					3069.9,
+					7574.4,
+					-1.9,
+					7483.3,
+					-1.9
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					8649.4,
+					3069.9,
+					8772.1,
+					3069.9,
+					8772.8,
+					-2.1,
+					8651.6,
+					-2.1
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					7575.4,
+					3070.9,
+					7698.1,
+					3070.9,
+					7698,
+					-2.1,
+					7574.4,
+					-2.1
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			}
+		],
+		"tags": [],
+		"metadata": {
+			"version": "1.0.0",
+			"name": "080_x51487_y20436_cx32768_cy6144.jpg",
+			"status": "Completed"
+		}
+	},
+	"001_x-12964_y118740_cx32767_cy6144.jpg": {
+		"instances": [
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					9082.4,
+					-0.6,
+					9080.5,
+					3071.4,
+					-0.2,
+					3071.4,
+					-0.2,
+					-0.6
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					9210.4,
+					-0.6,
+					9082.4,
+					-0.6,
+					9080.5,
+					3071.4,
+					9210.4,
+					3071.4
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					9303.5,
+					-0.6,
+					9210.4,
+					-0.6,
+					9210.4,
+					3071.4,
+					9305.1,
+					3071.4
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					9428,
+					-0.6,
+					9303.5,
+					-0.6,
+					9305.1,
+					3071.4,
+					9429.2,
+					3071.4
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			}
+		],
+		"tags": [],
+		"metadata": {
+			"version": "1.0.0",
+			"name": "001_x-12964_y118740_cx32767_cy6144.jpg",
+			"status": "Completed"
+		}
+	},
+	"004_x-12964_y112596_cx32767_cy6144.jpg": {
+		"instances": [
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					9081.9,
+					-0.3,
+					9080,
+					3071.7,
+					-0.7,
+					3071.7,
+					-0.7,
+					-0.3
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					9209.9,
+					-0.3,
+					9081.9,
+					-0.3,
+					9080,
+					3071.7,
+					9209.9,
+					3071.7
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					9303,
+					-0.3,
+					9209.9,
+					-0.3,
+					9209.9,
+					3071.7,
+					9304.6,
+					3071.7
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					9427.5,
+					-0.3,
+					9303,
+					-0.3,
+					9304.6,
+					3071.7,
+					9428.7,
+					3071.7
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			}
+		],
+		"tags": [],
+		"metadata": {
+			"version": "1.0.0",
+			"name": "004_x-12964_y112596_cx32767_cy6144.jpg",
+			"status": "Completed"
+		}
+	},
+	"006_x-12964_y106452_cx32767_cy6144.jpg": {
+		"instances": [
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					9082.2,
+					-0.3,
+					9080.3,
+					3071.7,
+					-0.4,
+					3071.7,
+					-0.4,
+					-0.3
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					9210.2,
+					-0.3,
+					9082.2,
+					-0.3,
+					9080.3,
+					3071.7,
+					9210.2,
+					3071.7
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					9303.3,
+					-0.3,
+					9210.2,
+					-0.3,
+					9210.2,
+					3071.7,
+					9304.9,
+					3071.7
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					9427.8,
+					-0.3,
+					9303.3,
+					-0.3,
+					9304.9,
+					3071.7,
+					9429,
+					3071.7
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			}
+		],
+		"tags": [],
+		"metadata": {
+			"version": "1.0.0",
+			"name": "006_x-12964_y106452_cx32767_cy6144.jpg",
+			"status": "Completed"
+		}
+	},
+	"005_x-12964_y124884_cx32767_cy6144.jpg": {
+		"instances": [
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					9082,
+					-0.2,
+					9080.1,
+					3071.8,
+					-0.6,
+					3071.8,
+					-0.6,
+					-0.2
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					9210,
+					-0.2,
+					9082,
+					-0.2,
+					9080.1,
+					3071.8,
+					9210,
+					3071.8
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					9303.1,
+					-0.2,
+					9210,
+					-0.2,
+					9210,
+					3071.8,
+					9304.7,
+					3071.8
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					9427.6,
+					-0.2,
+					9303.1,
+					-0.2,
+					9304.7,
+					3071.8,
+					9428.8,
+					3071.8
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			}
+		],
+		"tags": [],
+		"metadata": {
+			"version": "1.0.0",
+			"name": "005_x-12964_y124884_cx32767_cy6144.jpg",
+			"status": "Completed"
+		}
+	},
+	"008_x-12964_y100308_cx32767_cy6144.jpg": {
+		"instances": [
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					9082.4,
+					-0.4,
+					9080.5,
+					3071.6,
+					-0.2,
+					3071.6,
+					-0.2,
+					-0.4
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					9210.4,
+					-0.4,
+					9082.4,
+					-0.4,
+					9080.5,
+					3071.6,
+					9210.4,
+					3071.6
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					9303.5,
+					-0.4,
+					9210.4,
+					-0.4,
+					9210.4,
+					3071.6,
+					9305.1,
+					3071.6
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					9428,
+					-0.4,
+					9303.5,
+					-0.4,
+					9305.1,
+					3071.6,
+					9429.2,
+					3071.6
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			}
+		],
+		"tags": [],
+		"metadata": {
+			"version": "1.0.0",
+			"name": "008_x-12964_y100308_cx32767_cy6144.jpg",
+			"status": "Completed"
+		}
+	},
+	"009_x-12964_y94164_cx32767_cy6144.jpg": {
+		"instances": [
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					9082.4,
+					-0.2,
+					9080.5,
+					3071.8,
+					-0.2,
+					3071.8,
+					-0.2,
+					-0.2
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					9210.4,
+					-0.2,
+					9082.4,
+					-0.2,
+					9080.5,
+					3071.8,
+					9210.4,
+					3071.8
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					9303.5,
+					-0.2,
+					9210.4,
+					-0.2,
+					9210.4,
+					3071.8,
+					9305.1,
+					3071.8
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					9428,
+					-0.2,
+					9303.5,
+					-0.2,
+					9305.1,
+					3071.8,
+					9429.2,
+					3071.8
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			}
+		],
+		"tags": [],
+		"metadata": {
+			"version": "1.0.0",
+			"name": "009_x-12964_y94164_cx32767_cy6144.jpg",
+			"status": "Completed"
+		}
+	},
+	"010_x-12964_y88020_cx32767_cy6144.jpg": {
+		"instances": [
+			{
+				"type": "polygon",
+				"classId": 4,
+				"probability": 100,
+				"points": [
+					9427.2,
+					-1,
+					9302.7,
+					-1,
+					9304.3,
+					3071,
+					9428.4,
+					3071
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 3,
+				"probability": 100,
+				"points": [
+					9302.7,
+					-1,
+					9209.6,
+					-1,
+					9209.6,
+					3071,
+					9304.3,
+					3071
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 2,
+				"probability": 100,
+				"points": [
+					9209.6,
+					-1,
+					9081.6,
+					-1,
+					9079.7,
+					3071,
+					9209.6,
+					3071
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			},
+			{
+				"type": "polygon",
+				"classId": 1,
+				"probability": 100,
+				"points": [
+					9081.6,
+					-1,
+					9079.7,
+					3071,
+					-1,
+					3071,
+					-1,
+					-1
+				],
+				"groupId": 0,
+				"pointLabels": {},
+				"locked": false,
+				"visible": true,
+				"attributes": []
+			}
+		],
+		"tags": [],
+		"metadata": {
+			"version": "1.0.0",
+			"name": "010_x-12964_y88020_cx32767_cy6144.jpg",
+			"status": "Completed"
+		}
+	}
+}
